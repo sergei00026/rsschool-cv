@@ -1,28 +1,29 @@
 
 
-#Korolev Sergey
+# Korolev Sergey
 ***
 
 ![Korolev Sergey](img/photo.jpg)
 
-##Junior Frontend Developer
+## __Junior Frontend Developer__
 
 ***
 
-##Contact information:
+## Contact information:
 ***
 
 E-mail: ksvladimirovich@gmail.com
 Telegram: @sergiokzntip
+Discord: Serjio(@sergei00026) Serjio (Сергей)#3941
 
 ***
 
-##About Me
+## About Me
 ***
 
 Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
 
-##Skills
+## Skills
 ***
 
 * HTML
@@ -39,11 +40,11 @@ Telegram: @sergiokzntip
 
 * __University:__ Kazan state Power Engineering University
 * __Courses:__
- + HTML Academy
- + freelancer lifestyle
- + Udemy
+ - HTML Academy
+ - freelancer lifestyle
+ - Udemy
 
-##English
+## English
 ***
 
 A1 (Understand and use everyday expressions, basic phrases aimed at meeting basic needs)
