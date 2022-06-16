@@ -1,21 +1,16 @@
 
 
 # Korolev Sergey
-***
 
 ![Korolev Sergey](img/photo.jpg)
 
 ## __Junior Frontend Developer__
-
-***
 
 ## Contact information:
 
 E-mail: ksvladimirovich@gmail.com
 Telegram: @sergiokzntip
 Discord: Serjio(@sergei00026) Serjio (Сергей)#3941
-
-***
 
 ## About Me
 
@@ -32,15 +27,13 @@ Discord: Serjio(@sergei00026) Serjio (Сергей)#3941
 * GULP
 * Webpack
 
-***
-
 ## Education
 
 * __University:__ Kazan state Power Engineering University
 * __Courses:__
- - HTML Academy
- - freelancer lifestyle
- - Udemy
+   - HTML Academy
+   - freelancer lifestyle
+   - Udemy
 
 ## English
 
