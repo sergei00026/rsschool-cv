@@ -29,8 +29,8 @@ Discord: Serjio(@sergei00026) Serjio (Сергей)#3941
 
 ## Education
 
-* __University:__ Kazan state Power Engineering University
-* __Courses:__
++ __University:__ Kazan state Power Engineering University
++ __Courses:__
    - HTML Academy
    - freelancer lifestyle
    - Udemy
