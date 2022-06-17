@@ -8,10 +8,10 @@
 
 ## Contact information:
 
-__Russia, Sterlitamak__
-__E-mail:__ ksvladimirovich@gmail.com
-__Telegram:__ @sergiokzntip
-__Discord:__ Serjio(@sergei00026) Serjio (Сергей)#3941
+__Russia, Sterlitamak__  
+__E-mail:__ ksvladimirovich@gmail.com  
+__Telegram:__ @sergiokzntip  
+__Discord:__ Serjio(@sergei00026) Serjio (Сергей)#3941  
 
 ## About Me
 
