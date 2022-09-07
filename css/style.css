@@ -107,11 +107,11 @@ div[class*=__container] {
 
 body {
   font-family: "DM Sans", sans-serif;
-  background: #bedcff;
+  background: rgba(221, 233, 151, 0.2823529412);
 }
 
 .header {
-  background: #bedcff;
+  background: rgba(221, 233, 151, 0.2823529412);
 }
 .header__menu {
   font-weight: 700;
@@ -173,7 +173,7 @@ body {
     line-height: 200%;
     text-transform: uppercase;
     border-radius: 5px;
-    background: #bedcff;
+    background: rgba(221, 233, 151, 0.2823529412);
     z-index: 100;
   }
   .open .header__list > .header__item {
@@ -219,7 +219,7 @@ body {
   transition: width 0.5s;
 }
 .header__burger {
-  background: #bedcff;
+  background: rgba(221, 233, 151, 0.2823529412);
   display: none;
 }
 @media (max-width: 767.98px) {
