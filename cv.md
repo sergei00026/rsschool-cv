@@ -34,7 +34,7 @@ I work according to the methodology: BEM. I know how to understand someone else'
    - freelancer lifestyle
    - Udemy
 	- learn.javascript.ru
-	-code.mu
+	- code.mu
 
 ## English
 
